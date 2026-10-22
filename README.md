@@ -1,0 +1,2 @@
+# Datheon_Python_Programming_Internship_-Hangman-Word-Guessing-Game-
+A simple Python-based Hangman word-guessing game featuring random word selection, ASCII graphics, six attempts, duplicate guess handling, and replay functionality. It downloads a word list when available and uses built-in words offline. This project demonstrates Python fundamentals, functions, loops, conditionals, sets, and file handling.
